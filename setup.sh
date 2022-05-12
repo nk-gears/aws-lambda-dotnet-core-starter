@@ -1,0 +1,1 @@
+dotnet tool install --global Amazon.Lambda.TestTool-3.1
